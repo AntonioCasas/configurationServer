@@ -1,0 +1,15 @@
+my:
+   greeting: hello git world from ${app.name}
+   app:
+      list: listOne, listTwo, listThree
+app:
+   name: My config app Git
+
+db:
+   values: "{connStr : 'serverIp', username: 'admin', pass: 'admin'}"
+   host: localhost
+   port: 2022
+
+
+management.endpoints.web.exposure.include: "*"
+spring.profiles.active: test
