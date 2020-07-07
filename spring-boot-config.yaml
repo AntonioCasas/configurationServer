@@ -3,7 +3,7 @@ my:
    app:
       list: listOne, listTwo, listThree
 app:
-   name: My config app Git spring-boot-config specific file 
+   name: My config app Git spring-boot-config specific file Updated
 
 db:
    values: "{connStr : 'serverIp', username: 'admin', pass: 'admin'}"
