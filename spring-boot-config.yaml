@@ -3,7 +3,7 @@ my:
    app:
       list: listOne, listTwo, listThree
 app:
-   name: My config app Git spring-boot-config specific file Updated V2 actuator
+   name: My config app Git spring-boot-config specific file Updated V3 ola ke ase
 
 db:
    values: "{connStr : 'serverIp', username: 'admin', pass: 'admin'}"
