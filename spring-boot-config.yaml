@@ -8,7 +8,7 @@ app:
 db:
    values: "{connStr : 'serverIp', username: 'admin', pass: 'admin'}"
    host: localhost
-   port: 2029
+   port: 2030
 
 
 management.endpoints.web.exposure.include: "*"
